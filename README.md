@@ -123,8 +123,8 @@ projects, skills, and contact information.
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://github.com/youssef-atef">GitHub</a>
+  <a href="https://www.linkedin.com/in/yousef-atef-1719b5261/">LinkedIn</a> •
+  <a href="https://github.com/yousefAtef2">GitHub</a>
 </p>
 
 
