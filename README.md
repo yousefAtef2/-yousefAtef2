@@ -17,7 +17,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  🎓 Front-End Developer Student  
+   junior Front-End Developer   
   <br/>
   ⚛️ Building interfaces with <b>React</b>  
   <br/>
