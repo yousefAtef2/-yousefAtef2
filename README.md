@@ -1,24 +1,130 @@
-# -yousefAtef2h
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=youssef-atef.youssef-atef" />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;I'm+Yousef+Atef;FrontEnd+Developer+;&center=true&size=30">
+</h1>
 
-<p>Welcome to my page! </br> I'm Thomas, Frontend developer from <b>cairo, Egypt </b>. </p>
-<h3>Things I code with</h3>
+<h3 align="center">
+  junior Front-End Developer • React & Tailwind CSS
+</h3>
+
+<p align="center">
+  junior Front-End Developer passionate about building modern, responsive, and user-friendly web interfaces using React and Tailwind CSS.
+</p>
+
+<hr/>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  🎓 Front-End Developer Student  
+  <br/>
+  ⚛️ Building interfaces with <b>React</b>  
+  <br/>
+  🎨 Styling modern layouts using <b>Tailwind CSS</b>  
+  <br/>
+  🌱 Currently improving my skills in React and UI development  
+  <br/>
+  🎯 Aspiring professional Front-End Developer  
+  <br/>
+  📫 Contact: <a href="mailto:dev.yousef.atef@gmail.com">dev.yousef.atef@gmail.com</a>
+</p>
+
+<hr/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+</p>
+
+<hr/>
+
+<h2 align="center">📌 Projects</h2>
+
+<h3>🔹 React To-Do App</h3>
+
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <!-- <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />  -->
-  <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> -->
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <!-- <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> -->
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <!-- <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" /> -->
-  <!-- <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" /> -->
-  <!-- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> -->
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <!-- <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> -->
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+A simple and interactive to-do application built with React and Tailwind CSS.
+It demonstrates component-based architecture, state management using hooks,
+and a clean, responsive user interface.
+</p>
+
+<ul>
+  <li>Add, edit, and delete tasks</li>
+  <li>React hooks for state management</li>
+  <li>Responsive UI with Tailwind CSS</li>
+</ul>
+
+<b>Tech:</b> React, Tailwind CSS, JavaScript  
+<br/>
+<a href="https://github.com/youssef-atef/react-todo-app">🔗 GitHub Repo</a>
+
+<hr/>
+
+<h3>🔹 React Dashboard UI</h3>
+
+<p>
+A dashboard user interface built with React and Tailwind CSS, focusing on layout
+structure, reusable components, and modern UI patterns.
+</p>
+
+<ul>
+  <li>Sidebar and navbar layout</li>
+  <li>Reusable components</li>
+  <li>Responsive grid system</li>
+</ul>
+
+<b>Tech:</b> React, Tailwind CSS  
+<br/>
+<a href="https://github.com/youssef-atef/react-dashboard-ui">🔗 GitHub Repo</a>
+
+<hr/>
+
+<h3>🔹 Portfolio Website</h3>
+
+<p>
+A personal portfolio website built with React and Tailwind CSS to showcase
+projects, skills, and contact information.
+</p>
+
+<ul>
+  <li>Clean and modern UI</li>
+  <li>Responsive design</li>
+  <li>Project showcase section</li>
+</ul>
+
+<b>Tech:</b> React, Tailwind CSS  
+<br/>
+<a href="https://github.com/youssef-atef/portfolio">🔗 GitHub Repo</a>
+
+<hr/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=youssef-atef&show_icons=true&theme=react&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=youssef-atef&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-atef&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<hr/>
+
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
+  <a href="https://github.com/youssef-atef">GitHub</a>
+</p>
 
 
